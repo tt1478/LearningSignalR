@@ -1,0 +1,15 @@
+C:\Users\Antoine\Desktop\LearningSignalR\WebSocketClient\bin\Debug\net7.0\WebSocketClient.exe
+C:\Users\Antoine\Desktop\LearningSignalR\WebSocketClient\bin\Debug\net7.0\WebSocketClient.deps.json
+C:\Users\Antoine\Desktop\LearningSignalR\WebSocketClient\bin\Debug\net7.0\WebSocketClient.runtimeconfig.json
+C:\Users\Antoine\Desktop\LearningSignalR\WebSocketClient\bin\Debug\net7.0\WebSocketClient.dll
+C:\Users\Antoine\Desktop\LearningSignalR\WebSocketClient\bin\Debug\net7.0\WebSocketClient.pdb
+C:\Users\Antoine\Desktop\LearningSignalR\WebSocketClient\obj\Debug\net7.0\WebSocketClient.csproj.AssemblyReference.cache
+C:\Users\Antoine\Desktop\LearningSignalR\WebSocketClient\obj\Debug\net7.0\WebSocketClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine\Desktop\LearningSignalR\WebSocketClient\obj\Debug\net7.0\WebSocketClient.AssemblyInfoInputs.cache
+C:\Users\Antoine\Desktop\LearningSignalR\WebSocketClient\obj\Debug\net7.0\WebSocketClient.AssemblyInfo.cs
+C:\Users\Antoine\Desktop\LearningSignalR\WebSocketClient\obj\Debug\net7.0\WebSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\Desktop\LearningSignalR\WebSocketClient\obj\Debug\net7.0\WebSocketClient.dll
+C:\Users\Antoine\Desktop\LearningSignalR\WebSocketClient\obj\Debug\net7.0\refint\WebSocketClient.dll
+C:\Users\Antoine\Desktop\LearningSignalR\WebSocketClient\obj\Debug\net7.0\WebSocketClient.pdb
+C:\Users\Antoine\Desktop\LearningSignalR\WebSocketClient\obj\Debug\net7.0\WebSocketClient.genruntimeconfig.cache
+C:\Users\Antoine\Desktop\LearningSignalR\WebSocketClient\obj\Debug\net7.0\ref\WebSocketClient.dll

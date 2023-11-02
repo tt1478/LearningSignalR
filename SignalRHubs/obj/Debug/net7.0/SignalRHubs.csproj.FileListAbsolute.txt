@@ -1,0 +1,12 @@
+C:\Users\Antoine\Desktop\LearningSignalR\SignalRHubs\bin\Debug\net7.0\SignalRHubs.deps.json
+C:\Users\Antoine\Desktop\LearningSignalR\SignalRHubs\bin\Debug\net7.0\SignalRHubs.dll
+C:\Users\Antoine\Desktop\LearningSignalR\SignalRHubs\bin\Debug\net7.0\SignalRHubs.pdb
+C:\Users\Antoine\Desktop\LearningSignalR\SignalRHubs\obj\Debug\net7.0\SignalRHubs.csproj.AssemblyReference.cache
+C:\Users\Antoine\Desktop\LearningSignalR\SignalRHubs\obj\Debug\net7.0\SignalRHubs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine\Desktop\LearningSignalR\SignalRHubs\obj\Debug\net7.0\SignalRHubs.AssemblyInfoInputs.cache
+C:\Users\Antoine\Desktop\LearningSignalR\SignalRHubs\obj\Debug\net7.0\SignalRHubs.AssemblyInfo.cs
+C:\Users\Antoine\Desktop\LearningSignalR\SignalRHubs\obj\Debug\net7.0\SignalRHubs.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\Desktop\LearningSignalR\SignalRHubs\obj\Debug\net7.0\SignalRHubs.dll
+C:\Users\Antoine\Desktop\LearningSignalR\SignalRHubs\obj\Debug\net7.0\refint\SignalRHubs.dll
+C:\Users\Antoine\Desktop\LearningSignalR\SignalRHubs\obj\Debug\net7.0\SignalRHubs.pdb
+C:\Users\Antoine\Desktop\LearningSignalR\SignalRHubs\obj\Debug\net7.0\ref\SignalRHubs.dll
